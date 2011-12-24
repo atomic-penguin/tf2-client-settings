@@ -1,0 +1,3 @@
+// Right-click tf2, "set Launch Options"
+
+-full -console -novid -useforcedmparms -noforcemaccel -noforcemspd
