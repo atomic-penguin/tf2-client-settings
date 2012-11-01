@@ -1,0 +1,2 @@
+#!/bin/sh
+/opt/cxoffice/bin/wine --bottle "Team Fortress 2" "C:/Program Files/Steam/Steam.exe" -applaunch 440 -textmode -nosound -sw -maxplayers 2 +sv_lan 1 +map "itemtest" "$@"
