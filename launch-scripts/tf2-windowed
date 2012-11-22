@@ -1,0 +1,2 @@
+#!/bin/sh
+/opt/cxoffice/bin/wine --bottle "Team Fortress 2" "C:/Program Files/Steam/Steam.exe" -applaunch 440 -windowed -w 1600 -h 900 -console -novid "$@"
